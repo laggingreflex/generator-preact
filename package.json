@@ -1,0 +1,17 @@
+{
+  "name": "generator-preact",
+  "version": "0.0.0",
+  "description": "Minimal preact boilerplate",
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "repository": "laggingreflex/generator-preact",
+  "dependencies": {
+    "enquire-simple": "^0.1.0",
+    "yeoman-generator": "^1.0.0"
+  }
+}

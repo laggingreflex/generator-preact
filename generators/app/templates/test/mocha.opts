@@ -1,0 +1,11 @@
+--timeout=12000
+--require test/index.js
+--report lcov
+--report text
+--reporter spec
+--bail
+--all
+src/**/*.test.js
+src/**/test/*.js
+src/**/test.js
+test/**/*.js
